@@ -27,3 +27,11 @@ function calcular(num1,num2) {
 }
 
 calcular(n1, n2);
+
+let  = "";
+let i = 10;
+do {
+  text += i + "<br>";
+  i++;
+}
+while (i < 10);
